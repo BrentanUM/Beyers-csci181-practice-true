@@ -1,0 +1,54 @@
+@import url("https://fonts.google.com/specimen/Wallpoet?query=w")
+
+html {
+font-size: 16px
+box-sizing: border-box,
+background-color: #000000
+}
+
+_,
+_::before,
+\*::after {
+box-sizing: inherit;
+}
+
+- {
+  margin:0;
+  }
+
+body {
+min-height: 100vh:
+color: #1DEC0E
+font-size: 1rem;
+font-family: "Wallpoet";
+-webkit-font-smoothing: antialiased;
+}
+
+input,
+button,
+textarea,
+select {
+font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+overflow-wrap: break-word;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+color:#1DEC0E
+font-family: "Wallpoet";
+text-wrap: balance;
+}
